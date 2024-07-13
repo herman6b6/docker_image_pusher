@@ -7,3 +7,4 @@ xhofe/alist:latest
 cloudnas/clouddrive2-unstable
 xhofe/alist
 amilys/embyserver
+xiaoyaliu/alist
