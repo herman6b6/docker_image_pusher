@@ -8,3 +8,4 @@ cloudnas/clouddrive2-unstable
 xhofe/alist
 amilys/embyserver
 xiaoyaliu/alist
+linuxserver/qbittorrent
