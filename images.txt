@@ -9,3 +9,4 @@ xhofe/alist
 amilys/embyserver
 xiaoyaliu/alist
 linuxserver/qbittorrent
+nastool/nas-tools
