@@ -11,3 +11,4 @@ xiaoyaliu/alist
 linuxserver/qbittorrent
 nastool/nas-tools
 linuxserver/transmission
+jxxghp/moviepilot
