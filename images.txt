@@ -13,3 +13,4 @@ nastool/nas-tools
 linuxserver/transmission
 jxxghp/moviepilot
 easychen/cookiecloud:latest
+nevinee/qbittorrent:latest
