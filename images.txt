@@ -19,3 +19,4 @@ easychen/cookiecloud:latest
 nevinee/qbittorrent:latest
 deluan/navidrome:latest
 xhofe/alist:latest
+snowdreamtech/frpc:latest
